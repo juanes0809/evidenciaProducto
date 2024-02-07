@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.lateral{
+    width: 15%;
+    height: 118vh;
+    background-color: blue;
+}
+.foto{
+    width: 180px;
+    height: 180px;
+    margin-left: 80px;
+    margin-top: -48%;
+    background-color: rgb(4, 132, 196);
+}
+.imagen{
+    width: 160px;
+    height: 160px;
+    margin: 10px;
+}
+.encabezado{
+    margin-left: 20%;
+    margin-top: -10%;
+}
+
+h1{
+    margin-left: 50px;
+    color: rgb(4, 102, 151);
+}
+p{
+    margin-left: 50px;
+}
+.info{
+    margin-left: 18%;
+    display: flex;
+    flex-direction: column;
+    line-height: 20px;
+    margin-top: 7%;
+}
+.yo{
+    margin-left: -1px;
+}
+h5{
+    margin-left: 3%;
+}
+.lateral2{
+    width: 5%;
+    height: 52.2vh;
+    margin-left: 95%;
+    margin-top: -18%;
+    background-color: rgb(4, 132, 196);
+}
+.lateral3{
+    width: 3%;
+    height: 46.2vh;
+    margin-left: 92%;
+    margin-top: -20.1%;
+    background-color: blue;
+}
+.circulo{
+    width: 10px;
+    height: 10px;
+    border-radius: 10px;
+    margin-left: 18%;
+    margin-top: -23.4%;
+    background-color: blue;
+}
+.linea{
+    width: 3px;
+    height: 7vh;
+    margin-left: 18.3%;
+    margin-top: -3.3%;
+    background-color: blue;
+}
+.circulo2{
+    width: 10px;
+    height: 10px;
+    border-radius: 10px;
+    margin-left: 18%;
+    margin-top: 2.4%;
+    background-color: blue;
+}
+.circulo3{
+    width: 10px;
+    height: 10px;
+    border-radius: 10px;
+    margin-left: 18%;
+    margin-top: 4.3%;
+    background-color: blue;
+}
+.circulo4{
+    width: 10px;
+    height: 10px;
+    border-radius: 10px;
+    margin-left: 18%;
+    margin-top: 5.5%;
+    background-color: blue;
+}
+.circulo5{
+    width: 10px;
+    height: 10px;
+    border-radius: 10px;
+    margin-left: 18%;
+    margin-top: 2.4%;
+    background-color: blue;
+}
+.circulo6{
+    width: 10px;
+    height: 10px;
+    border-radius: 10px;
+    margin-left: 18%;
+    margin-top: 2.3%;
+    background-color: blue;
+}
+.linea2{
+    width: 3px;
+    height: 15vh;
+    margin-left: 18.3%;
+    margin-top: -7%;
+    background-color: blue;
+}
